@@ -1,5 +1,5 @@
 //Images/////
-import QRCodeImage from "../../assets/images/image-qr-code.png";
+import QRCodeImage from "../../assets/image-qr-code.png";
 
 //Style/////
 import "./Home.scss";
