@@ -11,7 +11,8 @@ export default function Home() {
 
       <section className="main-container_promotional-section">
         <h1 className="promotional-section_title">
-          Improve your front-end skills by building projects
+          Improve your front-end <br />
+          skills by building projects
         </h1>
 
         <p className="promotional-section_promotional-text">
