@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
+
+@mixin flexbox-centralize {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  @include flexbox-centralize();
+  height: 100vh;
+  font-family: "Outfit";
+  background-color: hsl(212, 45%, 89%);
+}
